@@ -1,8 +1,6 @@
 ### Hi there, I'm Renato
 
-- I’m currently working on all things mobile/ technical article
-- I sometimes write tech articles on https://wise4rmgodadmob.medium.com/
-- I’m looking to collaborate on Android,IOS and Flutter, Firebase projects, Eleventy, Docsify, MkDocs.
+- I’m currently working on Computer Vision Algorithm for Aerial vehicles applications.
 - How to reach me: [E-mail](mailto: renato.loureiro@tecnico.ulisboa.pt),[LinkedIn](https://www.linkedin.com/in/renato-loureiro-68639514b/)
 - Fun fact: I'm portuguese, I love anime/manga, music and politics. 
 
