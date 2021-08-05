@@ -1,13 +1,20 @@
 ### Hi there, I'm Renato
 
 - I’m currently working on Computer Vision Algorithm for Aerial vehicles applications.
-- How to reach me: [E-mail](renato.loureiro@tecnico.ulisboa.pt),[LinkedIn](https://www.linkedin.com/in/renato-loureiro-68639514b/)
+- How to reach me: [E-mail](mailto:renato.loureiro@tecnico.ulisboa.pt), [LinkedIn](https://www.linkedin.com/in/renato-loureiro-68639514b/)
 - Fun fact: I'm portuguese, I love anime/manga, music and politics. 
 
 #### Technologies and Tools
 
 <p>
-<img src="https://img.shields.io/badge/-%20C%2B%2B%20-brightgreen"/>
+ <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-%20C%2B%2B%20-brightgreen"/>
+ <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+ <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 #### Currently studying at:
@@ -15,17 +22,3 @@
  
 Thanks for checking out my profile.
 
-<!--
-**renatoloureiro/renatoloureiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
