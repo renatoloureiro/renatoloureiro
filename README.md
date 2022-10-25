@@ -1,6 +1,6 @@
 ### Hi there, I'm Renato
 
-- I’m currently working on Computer Vision Algorithm for Aerial vehicles applications and on sum-of-squares problems.
+- I’m currently working on Computer Vision Algorithm for Aerial vehicles applications and on Bilinear sum-of-squares problems.
 - How to reach me: [E-mail](mailto:renato.loureiro@tecnico.ulisboa.pt), [LinkedIn](https://www.linkedin.com/in/renato-loureiro-68639514b/)
 - Fun fact: I'm portuguese, I love anime/manga, music and politics. 
 
