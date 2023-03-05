@@ -14,7 +14,13 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Simulink-red%60orange?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+ </p>
+<p>
+ <img src="https://img.shields.io/github/followers/renatoloureiro.svg?style=social&label=Follow&maxAge=2592000"/>
 </p>
+
  
 Thanks for checking out my profile.
 
